@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1525542359 source:c:\users\tales\desktop\documentos\codeblocks\teste\jogosdl\testsprite.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<math.h>
+	<time.h>
+	"SDL.h"
+
+1526075089 source:c:\users\tales\desktop\documentos\codeblocks\teste\jogosdl\jogo.cpp
+	"SDL2/SDL.h"
+	"SDL2/SDL_opengl.h"
+	"SDL2/SDL_image.h"
+	<stdio.h>
+
+1526075089 source:c:\devel\jogosdl\jogo.cpp
+	"SDL2/SDL.h"
+	"SDL2/SDL_opengl.h"
+	"SDL2/SDL_image.h"
+	<stdio.h>
+
+1531257867 source:c:\dev\jogosdl\jogo.cpp
+	"SDL2/SDL.h"
+	"SDL2/SDL_opengl.h"
+	"SDL2/SDL_image.h"
+	"SDL2/SDL_mixer.h"
+	<stdio.h>
+
+1531260773 source:d:\dev\jogosdl\jogo.cpp
+	"SDL2/SDL.h"
+	"SDL2/SDL_opengl.h"
+	"SDL2/SDL_image.h"
+	"SDL2/SDL_mixer.h"
+	<stdio.h>
+
